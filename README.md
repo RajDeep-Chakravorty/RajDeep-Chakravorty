@@ -9,6 +9,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original-wordmark.svg" title="Kaggle" alt="Kaggle" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Desktop.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>
+  <img src="https://static-00.iconduck.com/assets.00/ms-excel-icon-512x506-kad3cmyu.png" title="MSExcel" alt="MSExcel" width="40" height="40"/>
+  
 </div>
 
 
