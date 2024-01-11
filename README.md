@@ -21,8 +21,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-
 ---
 ### :man_technologist: About Me :
 
@@ -55,7 +53,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RajDeep-Chakravorty)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=RajDeep-Chakravorty" alt="GitHub Streak" /></a>
 
 
 <!---
