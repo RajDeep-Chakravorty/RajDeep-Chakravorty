@@ -53,7 +53,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RajDeep-Chakravorty&theme=dark&background=000000)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajDeep-Chakravorty&show_icons=true&bg_color=00000000)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajDeep-Chakravorty&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
