@@ -1,8 +1,3 @@
-<head>
-    <div id="header" align="center">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-    </div>
-</head>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rajdeep-chakravorty/">
@@ -22,6 +17,7 @@
   HEY THERE
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
 
 
 
@@ -51,6 +47,12 @@
 - 📞 Contact me on 8080161547
 - 🔗 https://www.linkedin.com/in/rajdeep-chakravorty/
 - 🔗 https://www.datascienceportfol.io/Rajdeep_portfolio
+
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RajDeep-Chakravorty)](https://git.io/streak-stats)
 
 
 <!---
