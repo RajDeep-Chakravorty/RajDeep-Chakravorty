@@ -54,7 +54,7 @@
 
 ### :fire: My Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RajDeep-Chakravorty&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajDeep-Chakravorty&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajDeep-Chakravorty&layout=compact&theme=vision-friendly-dark&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
