@@ -1,3 +1,7 @@
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
 - 👋 Hi, I’m @RajDeep-Chakravorty
 - 👀 I’m interested in anything and everything related to the world of Data Science
 - 🌱 I’m currently pursuing Data Science
