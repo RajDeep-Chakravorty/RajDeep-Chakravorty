@@ -10,7 +10,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="NumPy" alt="NumPy" width="40" height="40"/>
   <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Desktop.svg" title="PowerBI" alt="PowerBI" width="40" height="40"/>
   <img src="https://static-00.iconduck.com/assets.00/ms-excel-icon-512x506-kad3cmyu.png" title="MSExcel" alt="MSExcel" width="40" height="40"/>
-  
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvectorified.com%2Ftableau-    icon&psig=AOvVaw0IzXevhO7XoXPJ_1vejFJ_&ust=1705057488101000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKDtgqaY1YMDFQAAAAAdAAAAABAI" title="Tableau" alt="Tableau" width="40" height="40"/>
 </div>
 
 
