@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/rajdeep-chakravorty/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -8,6 +9,10 @@
   <a href="https://www.kaggle.com/rajdeepchakravorty">
     <img src="https://img.shields.io/badge/kaggle-darkblue?style=for-the-badge&logo=kaggle&logoColor=green" alt="Kaggle Badge"/>
   </a>
+</div>
+
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
 
