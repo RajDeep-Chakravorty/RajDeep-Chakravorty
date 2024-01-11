@@ -53,8 +53,7 @@
 ---
 
 ### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=RajDeep-Chakravorty" alt="GitHub Streak" /></a>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RajDeep-Chakravorty&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 <!---
 RajDeep-Chakravorty/RajDeep-Chakravorty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
