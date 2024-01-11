@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing Data Science
 - 📫 Reach me on rajdeeprocks5@gmail.com
 - 📞 Contact me on 8080161547
-- 🔗 linkedin.com/in/rajdeep-chakravorty
+- 🔗 https://www.linkedin.com/in/rajdeep-chakravorty/
 - 🔗 https://www.datascienceportfol.io/Rajdeep_portfolio
 
 
